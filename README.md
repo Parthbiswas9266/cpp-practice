@@ -10,8 +10,8 @@ This repository is used to practice concepts, solve programming problems, experi
 - Input and Output
 - Arithmetic and Logical Operators
 - Conditional Statements
-- `for` Loops
-- `while` Loops
+- for Loops
+- while Loops
 - Nested Loops
 - Number Manipulation
 - Pattern Printing
