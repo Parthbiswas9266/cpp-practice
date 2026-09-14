@@ -1,10 +1,10 @@
-<cpp-practice>
+## cpp-practice
 
 A collection of C++ programming exercises and projects documenting my journey from programming fundamentals to more advanced concepts.
 
 This repository is used to practice concepts, solve programming problems, experiment with code, and track my progress while learning C++.
 
-## 📚 Topics Covered
+## Topics Covered
 
 - Variables and Data Types
 - Input and Output
