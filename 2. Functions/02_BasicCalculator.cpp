@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int a, b;
+int a, b; // Global //
 
 int add(){
  return a + b; 
